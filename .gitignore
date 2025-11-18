@@ -1,0 +1,10 @@
+
+# Docker local data
+docker-data/
+docker/
+.docker/
+
+# Docker build cache directories
+**/cache/*
+**/.cache/*
+/var/lib/docker/
